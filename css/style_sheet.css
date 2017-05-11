@@ -4,6 +4,19 @@
   background-color: 30% grey;
 }
 
+.jumboblue {
+  background-color: pink;
+}
+
+.jumbogreen {
+  background-color: green;
+}
+
+.jumbowidth {
+  width: 450px;
+
+}
+
 .blue {
   color: #3B4E8F;
 }
@@ -25,4 +38,14 @@
 
 .sharp-corner {
   border-radius: 0 !important;
+}
+
+.tabfloat {
+  float: right;
+  padding-right: 10%;
+}
+
+.tabfloatleft {
+  float:left;
+
 }
