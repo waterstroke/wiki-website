@@ -1,0 +1,23 @@
+.jumbotron {
+  padding: .05%;
+  background-color: 30% grey;
+}
+
+.blue {
+  color: blue;
+}
+
+.size h1 {
+  font-size: 30px;
+}
+
+.size p {
+  font-size: 15px;
+}
+.col-md-6 {
+  padding: 1%;
+}
+
+.bg-success h2 {
+  color: 20% blue;
+}
