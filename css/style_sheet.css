@@ -1,10 +1,11 @@
 .jumbotron {
   padding: .05%;
+  border-radius: 0 !important;
   background-color: 30% grey;
 }
 
 .blue {
-  color: blue;
+  color: #3B4E8F;
 }
 
 .size h1 {
@@ -20,4 +21,8 @@
 
 .bg-success h2 {
   color: 20% blue;
+}
+
+.sharp-corner {
+  border-radius: 0 !important;
 }
